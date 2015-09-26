@@ -1,1 +1,1 @@
-# AppTempo2
+Esse projeto é um exemplo de exibição de clima.
